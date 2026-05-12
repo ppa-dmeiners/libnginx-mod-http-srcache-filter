@@ -1,0 +1,2 @@
+# fixes upstream author name parsing
+! copyright Files:~/.*/ Copyright=~"s/(Zhang)\s\(.*x\{6625\}\)/$1\ (章亦春)/"
