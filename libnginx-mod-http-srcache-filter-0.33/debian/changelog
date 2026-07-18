@@ -1,3 +1,9 @@
+libnginx-mod-http-srcache-filter (1:0.33-5+ubuntu24.04.1+deb.meiners.net+1.30.4) noble; urgency=medium
+
+  * New upstream version 1.30.4
+
+ -- David Meiners <david@meiners.net>  Sat, 18 Jul 2026 04:41:40 +0000
+
 libnginx-mod-http-srcache-filter (1:0.33-5+ubuntu24.04.1+deb.meiners.net+1.30.3) noble; urgency=medium
 
   * New upstream version 1.30.3
